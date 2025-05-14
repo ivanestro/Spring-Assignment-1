@@ -22,3 +22,12 @@ Changes to be committed:
 - `cd`: Changing in a directory from one location to the next example "Assignments > Many List categories of assignment > Assignment 1."  
 - `code`: This is used in git bash where it will open visual studio code.
 - `ls`: This is used when you are trying to see what lists you have such as directories and so many more.
+
+## Why Version Control is Important
+
+With version control, it is possible to:
+
+- Tracking changes of files, updates, reverts to previous versions when needed, compare changes between versions and lastly the history of the file of updates and changes committed.
+- Collaboration with multiple users who has access to the project/assignments that can modify simultaneously without downtime.
+- Version control systems has access control which is allowing user access to restrict certain parts of the project and to ensure that only authorized users can make changes.
+- Version control systems provide audit trail to enable users to track changes and help with guideline standards.
