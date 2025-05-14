@@ -31,3 +31,16 @@ With version control, it is possible to:
 - Collaboration with multiple users who has access to the project/assignments that can modify simultaneously without downtime.
 - Version control systems has access control which is allowing user access to restrict certain parts of the project and to ensure that only authorized users can make changes.
 - Version control systems provide audit trail to enable users to track changes and help with guideline standards.
+
+## Purpose of the following Git Commands
+
+- `git init`: git init is used to create a new repository and will create a subdirectory which will contain files necessary to manage the repository.
+- `git status`: git status is checking the system if there are any changes been made if its been pushed through the system or not.
+- `git add:` git add is when you have made a change in the file or folder and trying to add it to the repository.
+- `git commit:` git commit is creating a meaningful message when you have done git add. Creating a meaningful message will help promote organization.
+- `git push:` git push is used to publish or push an update of the file/folder to github when git commit is complete.
+- `git pull`:
+- `git log`: is used to see what the changes or updates have been made in the system.
+- `git branch`: git branch is used to list all the branches in the repository, right now we only have main which will list "main" branch.
+- `git merge`: git merge is used to merge main and sub branch.
+- `git checkout`: git checkout is used to switch between different branches example main to sub branch.
