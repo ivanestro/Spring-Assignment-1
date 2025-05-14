@@ -36,7 +36,7 @@ With version control, it is possible to:
 
 - `git init`: git init is used to create a new repository and will create a subdirectory which will contain files necessary to manage the repository.
 - `git status`: git status is checking the system if there are any changes been made if its been pushed through the system or not.
-- `git add:` git add is when you have made a change in the file or folder and trying to add it to the repository.
+- `git add:` git add is when you have made a change in the file or folder and trying to add it to the repository. You can use git add seperately or the entire changes made.
 - `git commit:` git commit is creating a meaningful message when you have done git add. Creating a meaningful message will help promote organization.
 - `git push:` git push is used to publish or push an update of the file/folder to github when git commit is complete.
 - `git pull`:
@@ -44,3 +44,14 @@ With version control, it is possible to:
 - `git branch`: git branch is used to list all the branches in the repository, right now we only have main which will list "main" branch.
 - `git merge`: git merge is used to merge main and sub branch.
 - `git checkout`: git checkout is used to switch between different branches example main to sub branch.
+
+## My Unique Touch
+
+There are things that set me apart from others:
+
+- You can work with a new branch called subdirectory the main branch will not be affected.
+- Promotes collaboration without downtime because of sub branches which the main branch will not be affected until all parties agree to merge.
+- Changes made from the new branch will only be affected to "new-branch" will show on the history.
+- Bug fixes on sub branch will not affect the main branch.
+
+[EOF]
