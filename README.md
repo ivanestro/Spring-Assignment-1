@@ -36,7 +36,7 @@ With version control, it is possible to:
 
 - `git init`: git init is used to create a new repository and will create a subdirectory which will contain files necessary to manage the repository.
 - `git status`: git status is checking the system if there are any changes been made if its been pushed through the system or not.
-- `git add:` git add is when you have made a change in the file or folder and trying to add it to the repository. You can use git add seperately or the entire changes made.
+- `git add:` git add is when you have made a change in the file or folder and trying to add it to the repository. You can use git add separately or the entire changes made.
 - `git commit:` git commit is creating a meaningful message when you have done git add. Creating a meaningful message will help promote organization.
 - `git push:` git push is used to publish or push an update of the file/folder to github when git commit is complete.
 - `git pull`:
