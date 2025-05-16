@@ -49,9 +49,9 @@ With version control, it is possible to:
 
 There are things that set me apart from others:
 
-- You can work with a new branch called subdirectory the main branch will not be affected.
-- Promotes collaboration without downtime because of sub branches which the main branch will not be affected until all parties agree to merge.
-- Changes made from the new branch will only be affected to "new-branch" will show on the history.
-- Bug fixes on sub branch will not affect the main branch.
+- Reading ahead of Software Development.
+- Learning online from recommended sources from profs and FreeCodeCamp.
+- Re-Reading modules to help me retain and create a meaningful message.
+- Staying Consistent with the assignments.
 
 [EOF]
