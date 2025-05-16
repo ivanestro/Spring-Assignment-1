@@ -53,5 +53,5 @@ There are things that set me apart from others:
 - Learning online from recommended sources from profs and FreeCodeCamp.
 - Re-Reading modules to help me retain and create a meaningful message.
 - Staying Consistent with the assignments.
-
+- Re-Testing Assignment 1
 [EOF]
